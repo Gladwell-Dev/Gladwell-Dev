@@ -5,6 +5,6 @@ My name is Gladwell , Im an UMP Trained Software Developer, Network Admin , IT S
 --🪴  Im currently working on Advancing my skills on Data Science/ Analysis ( python & R language ). 
 -- im Currently learning DevOps Engineering and preparing myself improve  on  deep learning   BackEnd Engineer ( DSA ) . 
 --
-[![Gladwell-Dev's GitHub stats](https://github-readme-stats.vercel.app/api?username=gladwell-dev)](https://github.com/gladwell-dev/github-readme-stats)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 

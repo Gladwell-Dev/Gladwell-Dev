@@ -7,7 +7,6 @@ My name is Gladwell , Im an UMP Trained Software Developer, Network Admin , IT S
  -- Always Open to Connect with anyone willing to build great Applications with me.
  --
 
-
 ## My Tech Stack
 
 ###  Languages

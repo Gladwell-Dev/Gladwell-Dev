@@ -45,6 +45,7 @@ My name is Gladwell , Im an UMP Trained Software Developer, Network Admin , IT S
 -  Macro Projects , such as Banking systems , API's , School management systems and more.
 
 ## Certificates 
-Mpumalanga Artificial intelligence Hackathon || 2024 - 3rd Place
-![Certificate](Certificate.pdf)
+Mpumalanga Artificial intelligence Hackathon || 2024 - 3rd Place.
+
+[Certificate](Certificate.pdf)
 

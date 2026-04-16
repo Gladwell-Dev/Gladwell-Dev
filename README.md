@@ -7,7 +7,7 @@ My name is Gladwell , Im an UMP Trained Software Developer, Network Admin , IT S
  -- Always Open to Connect with anyone willing to build great Applications with me.
  --
  
-## My Tech Stack
+## My Tech Stack. 
   
 ###  Languages 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)

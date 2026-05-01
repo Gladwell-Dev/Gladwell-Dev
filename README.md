@@ -42,7 +42,7 @@ My name is Gladwell , Im an UMP Trained Software Developer, Network Admin , IT S
 -  Developed data-driven projects using SQL and analytical tools.
 -  Designed and managed relational databases (MySQL & PostgreSQL).
 -  Managed to develop Mobile & Web Applications .
--  Macro Projects , such as Banking systems , API's , School management systems and more.
+-  Micro  Projects , such as Banking systems , API's , School management systems and more.
 
 ## Certificates 
 Mpumalanga Artificial intelligence Hackathon || 2024 - 3rd Place.

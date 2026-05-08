@@ -5,7 +5,7 @@ My name is Gladwell , Im an UMP Trained Software Developer, Network Admin , IT S
 --🪴  Im currently working on Advancing my skills on Data Science/ Analysis ( python & R language ).  
  -- And  im Currently learning DevOps Engineering and preparing myself to  enhance my skills  on Mastering  BackEnd Development .    
  -- Always Open to Connect with anyone willing to build great Applications with me.
- --
+ -- 
  
 ## My Tech Stack. 
   

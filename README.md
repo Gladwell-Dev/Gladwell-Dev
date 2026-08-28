@@ -1,11 +1,14 @@
 ##  Hi There 👋
 
-My name is Gladwell , Im an UMP Trained Software Developer, Network Admin , IT Support and Data Analysts  👨🏽‍🎓  interested in All these Computer Science Fields  Software Development ( Java , Python ,  C++ , Jakarta ee  , Kotlin , React or React Native , PhP , JavaScript ) Ai   , Data Analysis , Networking  , and Cloud Engineer 👨🏽‍💻. 
-  
---🪴  Im currently working on Java enterprise Application/ system for the Government System innovation .  
- -- And  im Currently learning DevOps Engineering and preparing myself to  enhance my skills  on Mastering  BackEnd Development .    
- -- Always Open to Connect with anyone willing to build great Applications  with me.
- -- 
+Im a full Stack developer  ( Java and Python ) 
+ ## what im up to  
+  - BackEnd development
+  - Cloud Systems
+  - Networking
+  - Data Analysis
+  - Al Development 
+     
+ 
  
 ## My Tech Stack . 
   
